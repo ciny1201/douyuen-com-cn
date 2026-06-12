@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciny1201.github.io/douyuen-com-cn/sitemap.xml
